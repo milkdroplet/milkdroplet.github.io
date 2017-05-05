@@ -3,6 +3,7 @@ layout:     post
 title:      "We're going Mobile!"
 date:       2014-08-12 16:00:00
 author:     "Yves Chiong"
+header-img: "img/posts/2014-08-12/bg.png"
 ---
 <p>
     <object class="card-shadow"

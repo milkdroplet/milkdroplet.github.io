@@ -3,6 +3,7 @@ layout:     post
 title:      "Teaser 'n Updates"
 date:       2013-03-10 16:00:00
 author:     "Yves Chiong"
+header-img: "img/posts/2013-03-10/bg.png"
 ---
 
 <p>

@@ -3,6 +3,7 @@ layout:     post
 title:      "Cat Game Character Sketches"
 date:       2012-11-26 16:00:00
 author:     "Yves Chiong"
+header-img: "img/posts/2012-11-26/bg.png"
 ---
 
 How do you like our paper and pencil sketches? So we are showcasing a buff cat, a shop owner with a stand, and a scene in the introduction story.

@@ -3,6 +3,7 @@ layout:     post
 title:      "Raelum Skywatchers Trailer"
 date:       2013-02-22 16:00:00
 author:     "Yves Chiong"
+header-img: "img/posts/2013-02-22/bg.png"
 ---
 
 <div style="max-width: 640px;" class="center-block card-shadow">

@@ -3,6 +3,7 @@ layout:     post
 title:      "Mobile Game Update"
 date:       2014-12-24 16:00:00
 author:     "Yves Chiong"
+header-img: "img/posts/2014-12-24/bg.png"
 ---
 
 <p>

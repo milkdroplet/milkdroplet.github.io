@@ -3,6 +3,7 @@ layout:     post
 title:      "The Art Process"
 date:       2013-03-30 16:00:00
 author:     "Yves Chiong"
+header-img: "img/posts/2013-03-30/bg.png"
 ---
 
 <p>

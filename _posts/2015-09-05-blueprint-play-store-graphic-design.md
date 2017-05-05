@@ -6,6 +6,11 @@ author:     "Yves Chiong"
 header-img: "img/posts/2015-09-05/bg.png"
 ---
 
+<p>
+    <img class="center-block card-shadow" src="/img/posts/2015-09-05/blueprint.png" alt="Progress from drawing to vector.">
+    <span class="caption text-muted">Upcoming mobile game teaser banner.</span>
+</p>
+
 Hey folks, we've been pretty busy with our lives for the last couple months and we are around 90% done our current game! This is the sneak peak graphic banner that will appear in the mobile app store and we've taken the initiative to censor out the title of the game just because we don't want anybody fainting from excitement. 😛
 
 We're planning the release onto Android and if it's successful then we'll be porting it over to iOS. So the theme of the game is a factory-based idle game where you can earn money by selling the boxes that you pack items up with. That's as simple as it gets. Live the life of a factory worker and make some big bucks.

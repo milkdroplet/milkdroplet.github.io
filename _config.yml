@@ -3,9 +3,9 @@ title: MilkDroplet
 header-img: img/home-bg.jpg
 # email: milkdroplet.service@gmail.com
 copyright_name: MilkDroplet Game Studio
-description: "Write your site description here. It will be used as your sites meta description as well!"
+meta_description: "We're an indie game studio located in Toronto. Currently we're focusing on creating addictive mobile games. We dream of creating worlds where players can dive in and enjoy."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "https://milkdroplet.com"
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  StartBootstrap

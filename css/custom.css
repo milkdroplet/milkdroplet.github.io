@@ -5,3 +5,14 @@
 .card-pad {
     padding: 15px;
 }
+
+.card-link {
+    color: #404040;
+    text-decoration: none;
+}
+
+.card-link:hover,
+.card-link:focus {
+    color: #404040;
+    text-decoration: none;
+}

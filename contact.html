@@ -6,12 +6,70 @@ header-img: "img/contact-bg.jpg"
 meta_description: "We're an indie game studio located in Toronto. Want to reach out to us? Send us an email and we'll get back to you as soon as possible!" 
 ---
 
-<p>Want to get in touch with us? Fill out the form below to send us a message!</p>
+<div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center">
+            <li>
+                <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </li>
+            {% if site.twitter_username %}
+            <li>
+                <a href="https://twitter.com/{{ site.twitter_username }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+            {% if site.facebook_username %}
+            <li>
+                <a href="https://www.facebook.com/{{ site.facebook_username }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+            {% if site.github_username %}
+            <li>
+                <a href="https://github.com/{{ site.github_username }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+            {% if site.email_username %}
+            <li>
+                <a href="mailto:{{ site.email_username }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+        </ul>
+    </div>
+</div>
+
+<p>Have any questions that you wish we can answer? Send us an email or use the messaging system below! It doesn't necessarily have to be a question. We will love anything you guys send us so don't be shy to give us a high five. We will try our best to reply to you as soon as we can.</p>
+
+<p>Thanks for all the support and keep enjoying our games!</p>
+
 <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
 <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
 <!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
-<!-- Use https://formspree.io/ to send this form statically -->
-<form name="sentMessage" id="contactForm" novalidate method="POST" action="http://formspree.io/milkdroplet.service@gmail.com">
+<!-- Use https://formspree.io/ to send this form to an email without a backend -->
+<form name="sentMessage" novalidate method="POST" action="http://formspree.io/milkdroplet.service@gmail.com">
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Name</label>

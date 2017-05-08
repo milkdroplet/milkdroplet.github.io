@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 copyright_name: MilkDroplet Game Studio
 meta_description: "We're an indie game studio located in Toronto. Currently we're focusing on creating addictive mobile games. We dream of creating worlds where players can dive in and enjoy."
 baseurl: ""
-url: "https://milkdroplet.com"
+url: "https://milkdroplet.com/"
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  StartBootstrap
@@ -19,7 +19,7 @@ email_username:  milkdroplet.service@gmail.com
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 8
 paginate_path: "/blog/page:num/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 

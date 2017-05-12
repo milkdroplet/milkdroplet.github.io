@@ -1,0 +1,13 @@
+- name: Allen Mathew
+  pic: /img/team/allen.png
+  sense: /img/team/allen-skill.png
+  role: /img/team/allen-role.png
+  hobby: /img/team/allen-hobby.png
+  colour: /img/team/allen-colour.png
+
+- name: Yves Chiong
+  pic: /img/team/yves.png
+  sense: /img/team/yves-skill.png
+  role: /img/team/yves-role.png
+  hobby: /img/team/yves-hobby.png
+  colour: /img/team/yves-colour.png

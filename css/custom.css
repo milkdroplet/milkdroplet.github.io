@@ -35,3 +35,10 @@
     max-width: 600px;
     margin: 0.5rem 0.5rem 1rem 0.5rem;
 }
+
+/* Member Card */
+.member-card {
+    padding-bottom: 15px;
+    max-width: 375px;
+    margin: 0 auto;
+}

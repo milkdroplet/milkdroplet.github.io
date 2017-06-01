@@ -42,3 +42,13 @@
     max-width: 375px;
     margin: 0 auto;
 }
+
+/* Logo */
+.logo {
+    font-size: 100%
+}
+
+.logo-droplet {
+    font-size: 120%;
+    vertical-align: middle;
+}

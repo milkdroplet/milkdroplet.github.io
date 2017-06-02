@@ -43,12 +43,33 @@
     margin: 0 auto;
 }
 
-/* Logo */
-.logo {
-    font-size: 100%
+/* Navbar Logo */
+.navbar-logo {
+    float: left;
+    height: 50px;
+    padding: 15px 5px;
 }
 
-.logo-droplet {
-    font-size: 120%;
-    vertical-align: middle;
+.logo {
+    height: 30px;
+    position: absolute;
+}
+
+@media only screen and (min-width: 1170px) {
+    /* Hide light logo when scrolling down */
+    .navbar-custom.is-fixed .logo-light {
+        visibility: hidden;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    /* Custom padding for mobile screen's smaller nav bar */
+    .navbar-logo {
+        padding: 10px 20px;
+    }
+    
+    /* Hide light logo in mobile nav bar*/
+    .logo-light {
+        visibility: hidden;
+    }
 }

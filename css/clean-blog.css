@@ -4,6 +4,8 @@
  * Licensed under MIT (https://spdx.org/licenses/MIT)
  */
 
+@import url('./variables.css');
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
@@ -22,11 +24,11 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 500;
 }
 a {
-  color: #404040;
+  color: var(--dark-color);
 }
 a:hover,
 a:focus {
@@ -44,7 +46,7 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: white;
+  border-color: var(--light-color);
 }
 .navbar-custom {
   background: white;
@@ -53,15 +55,15 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Varela Round", sans-serif;
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
-  font-weight: 800;
+  font-size: 13px;
+  font-weight: 700;
   letter-spacing: 1px;
 }
 @media only screen and (min-width: 768px) {
@@ -78,12 +80,13 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: white;
+    color: var(--light-color);
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: var(--light-color);
+    opacity: 0.8;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -118,7 +121,7 @@ hr.small {
     color: #0085a1;
   }
   .navbar-custom.is-fixed .nav li a {
-    color: #404040;
+    color: var(--dark-color);
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
@@ -147,7 +150,7 @@ hr.small {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 100px 0 50px;
-  color: white;
+  color: var(--light-color);
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
@@ -170,7 +173,7 @@ hr.small {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Varela Round", sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }

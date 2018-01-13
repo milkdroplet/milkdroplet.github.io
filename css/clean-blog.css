@@ -63,7 +63,6 @@ hr.small {
 }
 .navbar-custom .nav li a {
   font-size: 16px;
-  line-height: 22.4px;
   font-weight: 400;
 }
 @media only screen and (min-width: 768px) {

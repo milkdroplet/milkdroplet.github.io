@@ -32,7 +32,7 @@ that assumption, we can talk about some example scenarios listed above and how y
 # Future career in game development #
 If you want to make game development your future career (either you're a youth studying in college and prepared to get your first game development gig or you're
 thinking of switching careers), then you have to really get into the serious mindset and live and breath video games. But really, are you sure you want to be a
-game developer? Do you know the career prospects? If you know what you're getting yourself into then you're going to have to bring your A game to the products
+game developer? Do you know the career prospects? If you know what you're getting yourself into then you're going to have to bring your A-game to the products
 you create.
 
 I used to work with a guy that used to work at EA (which I presume is your end goal making AAA titles) and he spent most of his time working overtime
@@ -69,9 +69,9 @@ out game engines since they already do a lot of the dirty work for you (don't be
 Frankly, I used to think that my future career would be in game development since I loved playing games as a kid and always wanted to create a world of my own to share
 with others. This was my passion and also the career that I tried to pursue. You're waiting for a BUT right now aren't you? No BUTs, I'm still trying to make it my career
 through hard work and dedication. The first game I ever made in existence was a flash mouse maze game where you move your mouse through a path and try not to touch the
-maze walls. It was made just so I can tell myself that I made a game and I was one step closer to achieving my dreams. Of course it's nothing significant, but at least
+maze walls. It was made just so I could tell myself that I made a game and I was one step closer to achieving my dreams. Of course it's nothing significant, but at least
 I was making progress. And I believe that it was the right progress to make. I actually tried to tackle something too big for me the first time before I made the maze game
-and I failed miserably and even got so demotivated that I didn't want to pursue game development. Don't make the same mistake I did and just make anything. **ANYTHING!** It could
+and I failed miserably and even got so demotivated that I didn't want to pursue game development anymore. Don't make the same mistake I did and just make anything. **ANYTHING!** It could
 be any type of game you want. Just go through from start to finish and when you're done, stare at your product in triumph and put a maniacal smirk on your face. Cause you did
 something that many others couldn't do. I can assure you that the greatest barrier to success is yourself. If you just start and consistently do, then you'll finish.
 
@@ -88,7 +88,7 @@ It's quite well known in the industry that since indie game developers have litt
 ability to create something of great value is rare. But once in a blue moon, there are games that would get big for no apparent reason and it's hardly something that can
 be anticipated. This is a risky business. Nobody really has all the answers when it comes to if a game will be raking in the big bucks or not. Most likely those that can afford
 to use money in exchange for better *things* to put into a game and show to their players will be the ones that end up with enormous revenues. But for us, it's a whole different
-ball game. We need to rely a lot on market research, trend analysis, monetization strategies, etc in order to better our chances at breaking even. I'm not saying that more funded
+ball game. We need to rely a lot on market research, trend analysis, monetization strategies, etc. in order to better our chances at breaking even. I'm not saying that more funded
 developers don't do that, I'm just saying that unfunded developers **MUST** do the business side of things, otherwise you're probably looking at a penny in revenues and with a lifetime
 download count of 100 (if you're lucky). Am I exaggerating? Probably. Maybe not.
 
@@ -103,7 +103,7 @@ that is in it just for the monetary gains. It will show in the product. Like you
 </p>
 
 The key to this is the perfect balance between monetization strategies and the game. There are many games out there that demonstrate this. Let's take mobile games for example. Let's also say
-that the primary income source for that game would be video ads and in-app purchases. Making the video ads shown to the player through a voluntary approach gives the player the sense of
+that the primary revenue source for that game would be video ads and in-app purchases. Making the video ads shown to the player through a voluntary approach gives the player the sense of
 equivalent exchange, "I'll watch an ad voluntarily if I can get a reward". This keeps both the player happy and the developer happy. With in-app purchases, it works the same way, just don't
 balance the game in such a way that you must pay to win. We can also bring up the more traditional way of earning money through games, an upfront payment model where the player would purchase
 the full game (usually though the games are still riddled with ads and micro-transactions...but what could you do...developers need to eat too).
@@ -124,8 +124,8 @@ presenting your art to the world stage. It's not paramount, but it's nice to hav
 Well, well, well. Somebody wants to add a section to their résumé about a game that they will create. Smart thinking since you probably thought that plain old software is not fun at all and you
 can kind of kill two birds with one stone if you're interested in games to just build one and substitute it as a personal project for that software job that you want. The problem here is that games
 and software are different products even though they share a common development process. Within customer-facing software or applications, one would employ the software development life cycle and there
-is much more focus on utility and features rather than in games where design, graphics, progression, and optimizations for user experience are involved heavily. Since games are more like works of art
-like a movie and the main functionality of games is to deliver entertainment to its users, more concentration is put on to the overall experience from start to finish. The whole intention of software is
+is much more focus on utility and features rather than in games where design, graphics, progression, and optimizations for user experience are more heavily involved. Since games are more similar to works of art
+like movies and the main functionality of a game is to deliver entertainment to its users, more concentration is put on to the overall experience from start to finish. The whole intention of software is
 to help the user do something with ease using the help of a computer, for instance, software that helps your small business with accounting. Pretty dull utility from a game developer's perspective, but
 there are lots of accounting software companies out there that hire based on that criteria.
 
@@ -181,9 +181,9 @@ you think it is. Make the game and see how it does. If it's to satisfy your crea
 Are there any hints to creating a creative game? Nope. Not from me. That's the whole point of the creative process. Whatever you can dream of, just make it a reality. I believe you can do it. 😉
 
 # Passion and aspiration #
-To have a dream and direction of where you want to go or where you want to be is rare. But if you do share these sentiments with the rest of us, I'd like to welcome to into our cuddly and supportive family. You must have stories to
+To have a dream and direction of where you want to go or where you want to be is rare. But if you do share these sentiments with the rest of us, I'd like to welcome you into our cuddly and supportive family. You must have stories to
 tell that led you to have such aspirations to make a game and I'd like to hear that. I think this is the best form of motivation. One that is intrinsic in nature. It also means that you'll be a developer that is
-very caring of your game and the players of the game. Heck, maybe if you are someone with such passion for making games, then when you're reading this, you probably already have a few released games to be proud of.
+very caring of your game and the players that play it. Heck, maybe if you are someone with so much passion for making games, then when you're reading this, you probably already have a few released games to be proud of.
 
 There is nothing that can stop you from making the game that you've been dreaming of making ever since you were in diapers. Well other than funding, nothing else really. But that is a very real problem and something
 you can't ignore. I believe a lot of game developers come to that realization when they are very passionate about making games. So here's a generic storyline of the conventional game developer. When they were a child, they
@@ -195,14 +195,14 @@ create the next [*Insert game name here*].
     <span class="caption text-muted">Haha. This is my version of the story. Good times, good times, MapleStory.</span>
 </p>
 
-The great problem with this line of thinking is that this is where most developers end up in a rut of creating this humongous game by themselves or with a newbie team of friends
-and expect to actual pull something off. I can assure you that 99.99% of the time, developers would give up near the starting line due to them lacking the experience to estimate the scope of the project that they so
+The great problem with this line of thinking is that this is where most developers end up in a rut of creating a humongous game by themselves or with a newbie team of friends
+and expect to actually pull something off. I can assure you that 99.99% of the time, developers would give up near the starting line due to them lacking the experience to estimate the scope of the project that they so
 carelessly partook in. You can have dreams, but you also need to be realistic about it. You can have passions, but reduce the scope to what you can realistic handle. This is something that we struggled with at the start
 so we can talk from experience.
 
 If you used to play an MMORPG game and you want to recreate something similar, start with small steps. Create a single-player RPG game that has a few basic functionalities like inventory, equipment, skills, levels, monsters, characters and then
 strip those functionalities down even further. So if the game that you envisioned had thousands of equipment for characters to equip, maybe strip that down to 5 or 10 or 20. Same with skills, perhaps only 5 main skills. Same with monsters,
-you can recycle monsters if you want to by using the same art assets but different colours. There are lots of ways you can strip things down so that completion would be within your sights. Finish the game, test it, polish it, release it.
+you can recycle monsters if you want to by using the same art assets but different colours. There are lots of ways you can strip things down so that completion would be within your sights. Finish the game, polish it, test it, release it.
 Then you can say that you're one step closer to achieving your master goals. You can then either create a sequel of the game with new features and a more intricate system or make an entirely new game that improves on what you
 learned from the first. These are smarter and more effective ways of an action plan towards fulfilling your monolithic dreams than chasing a dream with no preparation and awareness of the consequences.
 

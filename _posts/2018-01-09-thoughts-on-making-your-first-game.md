@@ -3,7 +3,7 @@ layout:     post
 title:      "Thoughts on Making Your First Game"
 date:       2018-01-09 16:00:00
 author:     "Yves Chiong"
-header-img: "img/posts/2018-01-09/bg.jpg"
+header-img: "img/posts/2018-01-09/blog_banner.jpg"
 ---
 
 # So you want to make games...why? #

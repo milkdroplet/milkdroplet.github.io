@@ -35,7 +35,7 @@
     justify-content: center;
     flex-wrap: wrap;
     left: 0;
-    right:0;
+    right: 0;
 }
 
 .post-item {
@@ -74,7 +74,7 @@
     .navbar-logo {
         padding: 10px 20px;
     }
-    
+
     /* Hide light logo in mobile nav bar*/
     .logo-light {
         visibility: hidden;
@@ -84,4 +84,15 @@
 /* Footer Social Icons */
 .fa.fa-inverse {
     color: var(--light-color);
+}
+
+/* Tables */
+table.games {
+    border-collapse: separate;
+    border-spacing: 0 1em;
+    border: 0;
+}
+
+table.games tr td {
+    border: 0;
 }

@@ -18,22 +18,22 @@ Ever wanted to play a game so simple that even your 4 year old can play? Well he
 Look at these beautiful screenshots while you're at it!
 
 <div class="flexbox-container">
-    <div class="card-shadow flexbox-item" style="max-width: 245px">
+    <div class="card-shadow flexbox-item" style="max-width: 240px">
         <img src="/img/posts/2018-03-05/screenshot_1.png" alt="Beautiful Main Menu.">
     </div>
-    <div class="card-shadow flexbox-item" style="max-width: 245px">
+    <div class="card-shadow flexbox-item" style="max-width: 240px">
         <img src="/img/posts/2018-03-05/screenshot_2.png" alt="Desert Theme.">
     </div>
-    <div class="card-shadow flexbox-item" style="max-width: 245px">
+    <div class="card-shadow flexbox-item" style="max-width: 240px">
         <img src="/img/posts/2018-03-05/screenshot_3.png" alt="Grassland Theme.">
     </div>
-    <div class="card-shadow flexbox-item" style="max-width: 245px">
+    <div class="card-shadow flexbox-item" style="max-width: 240px">
         <img src="/img/posts/2018-03-05/screenshot_4.png" alt="Bake Theme.">
     </div>
-    <div class="card-shadow flexbox-item" style="max-width: 245px">
+    <div class="card-shadow flexbox-item" style="max-width: 240px">
         <img src="/img/posts/2018-03-05/screenshot_5.png" alt="Fire Theme.">
     </div>
-    <div class="card-shadow flexbox-item" style="max-width: 245px">
+    <div class="card-shadow flexbox-item" style="max-width: 240px">
         <img src="/img/posts/2018-03-05/screenshot_6.png" alt="Theme Selector.">
     </div>
 </div>

@@ -5,9 +5,9 @@ description: "Welcome to our game development lair!"
 header-img: "img/default-bg.jpg"
 ---
 
-<div class="showcase-container">
+<div class="flexbox-container">
     {% for game in site.data.games %}
-        <div class="card-shadow showcase-item">
+        <div class="flexbox-item card-shadow" style="max-width: 700px">
             <a class="card-link" href="{{ game.link }}">
                 <img class="card-img-top" src="{{ game.feature_graphic }}">
             </a>

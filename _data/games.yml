@@ -1,0 +1,10 @@
+- name: "Springy: Launch"
+  link: /games/springy/
+  feature_graphic: /img/games/springy/feature_graphic.png
+  description: "Need a break from your long day? Jump into our game and try springing up to the next platform! Unlock beautiful themes and enjoy our soothing music. :) Compete with your friends on our highscore leaderboards! How high can you go?"
+
+
+- name: "Raelum Skywatchers"
+  link: /games/raelum-skywatchers/
+  feature_graphic: /img/games/raelum-skywatchers/feature_graphic.png
+  description: "Raelum, a distant planet civilized by cats, is facing a crisis! Guide Taron through his flight-filled journey to find his father and save his planet! Can you help our hero achieve the ranks of a Raelum Skywatcher? Show off your love for kitties and physics through fun-filled stages in the game. There are plenty of equipment and upgrades to try out. Be sure to unlock every achievement!"

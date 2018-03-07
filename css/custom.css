@@ -6,6 +6,12 @@
 }
 
 /* Card CSS */
+.member-card {
+    padding-bottom: 15px;
+    max-width: 375px;
+    margin: 0 auto;
+}
+
 .card-shadow {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -35,7 +41,7 @@
     justify-content: center;
     flex-wrap: wrap;
     left: 0;
-    right:0;
+    right: 0;
 }
 
 .post-item {
@@ -43,11 +49,32 @@
     margin: 0.5rem 0.5rem 1rem 0.5rem;
 }
 
-/* Member Card */
-.member-card {
-    padding-bottom: 15px;
-    max-width: 375px;
-    margin: 0 auto;
+/* Game Flex Box*/
+.game-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    left: 0;
+    right: 0;
+}
+
+.game-item {
+    max-width: 600px;
+    margin: 0.5rem 0.5rem 1rem 0.5rem;
+}
+
+/* Showcase Flex Box*/
+.showcase-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    left: 0;
+    right: 0;
+}
+
+.showcase-item {
+    max-width: 700px;
+    margin: 0.5rem 0.5rem 1rem 0.5rem;
 }
 
 /* Navbar Logo */
@@ -74,7 +101,7 @@
     .navbar-logo {
         padding: 10px 20px;
     }
-    
+
     /* Hide light logo in mobile nav bar*/
     .logo-light {
         visibility: hidden;

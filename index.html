@@ -5,6 +5,12 @@ description: "Welcome to our game development lair!"
 header-img: "img/default-bg.jpg"
 ---
 
-<a class="card-link" href="/games/raelum-skywatchers/">
-    <img class= "card-shadow" src="/img/games/raelum-skywatchers/bg.png"/>
-</a>
+<div class="showcase-container">
+    {% for game in site.data.games %}
+        <div class="card-shadow showcase-item">
+            <a class="card-link" href="{{ game.link }}">
+                <img class="card-img-top" src="{{ game.feature_graphic }}">
+            </a>
+        </div>
+    {% endfor %}
+</div>

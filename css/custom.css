@@ -111,3 +111,9 @@
 .fa.fa-inverse {
     color: var(--light-color);
 }
+
+/* Call to action buttons */
+.android-cta {
+    width: 200px;
+    margin: auto
+}

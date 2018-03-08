@@ -10,7 +10,7 @@ meta_description: "We're an indie game studio located in Toronto. Check out the 
     {% for game in site.data.games %}
         <div class="card-shadow game-item">
             <a class="card-link" href="{{ game.link }}">
-                <img class="card-img-top" src="{{ game.feature_graphic }}">
+                <img src="{{ game.feature_graphic }}">
                 <div class="card-block card-pad">
                     <h2 class="card-title">{{ game.name }}</h2>
                     <p class="card-text">{{ game.description }}</p>

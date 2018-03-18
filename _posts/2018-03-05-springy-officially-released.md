@@ -11,7 +11,7 @@ header-img: "img/posts/2018-03-05/blog_banner.jpg"
 Finally the game everyone has been waiting for has come. Get your fingers ready for the classic jumping mechanics that touched the hearts of millions.
 
 Check out the trailer!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DcyZ8Pjt2AA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DcyZ8Pjt2AA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Ever wanted to play a game so simple that even your 4 year old can play? Well here it is. All you need is one of your handy-dandy fingers to control a spring. Holding down to accumulate power and letting go to launch far into the distance. The goal is just to land your spring safely onto a platform. Let's see how high you can go!
 

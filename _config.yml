@@ -9,9 +9,10 @@ meta_description: "We're an indie game studio located in Toronto. Currently we'r
 baseurl: ""
 url: "https://milkdroplet.com/"
 twitter_username: milkdroplet
-facebook_username:  milkdroplet
+facebook_username: milkdroplet
 instagram_username: milkdropletgames
-email_username:  milkdroplet.service@gmail.com
+email_username: milkdroplet.service@gmail.com
+linkedin_username: milkdroplet
 
 # Google Analytics
 google_tracking_id: UA-98728849-1
